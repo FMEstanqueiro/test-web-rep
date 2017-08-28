@@ -1,5 +1,9 @@
 12345
 
-teste 1ï¿½ commit
+teste 1º commit
 
 test 2
+
+
+Test 3
+___________________
